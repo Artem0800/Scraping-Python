@@ -1,0 +1,35 @@
+{
+    "result": true,
+    "data": {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "Видеокарта XFX AMD Radeon RX 6700 XT Speedster QICK 319 BLACK [RX-67XTYPBDP]",
+        "description": "Видеокарта XFX AMD Radeon RX 6700 XT Speedster QICK 319 BLACK на базе архитектуры AMD RDNA 2, оснащенная 40 мощными улучшенными вычислительными блоками, кэш-памятью AMD Infinity Cache и выделенной памятью GDDR6 объемом 12 ГБ, обеспечивает сверхвысокую частоту кадров и великолепные ощущения при игре с разрешением 1440p.",
+        "sku": "4880480",
+        "offers": {
+            "@type": "Offer",
+            "url": "https://www.dns-shop.ru/product/a641bfb93157ed20/videokarta-xfx-amd-radeon-rx-6700-xt-speedster-qick-319-black-rx-67xtypbdp/",
+            "availability": "https://schema.org/InStock",
+            "price": 130999,
+            "priceCurrency": "RUB"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5,
+            "worstRating": 0,
+            "bestRating": 5,
+            "reviewCount": 5
+        },
+        "image": [
+            "https://c.dns-shop.ru/thumb/st4/fit/300/300/3e765b91a00385bead6d37a9cc599af6/fc0b28696b875f9f00dc83da9cfb24b492a143da80008058f35e0758a95da1dc.jpg",
+            "https://c.dns-shop.ru/thumb/st1/fit/300/300/60cad7a357f1bc3ad29111340e9434fa/7f29a7aee44ca10e15af4f47b331f761e597a103276fb34274182e609ad49027.jpg",
+            "https://c.dns-shop.ru/thumb/st1/fit/300/300/d8efef550ed8941af2a7b2ba2106862c/5eb9bbd49ba3ae1078ef306cca082d1dd67a9b92f71c6b7cc6fc4bff912cc402.jpg"
+        ],
+        "brand": {
+            "@type": "Brand",
+            "name": "XFXforce"
+        }
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,33 @@
+headers = {
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+    'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+}
+
+cookies = {
+    'tmr_lvid': '5982529d3c01e24a3242c304cf5db27f',
+    'tmr_lvidTS': '1680030334935',
+    '_ym_uid': '1680030335144475983',
+    'rrpvid': '133906740571907',
+    'rcuid': '64233a922c7401205049667e',
+    'adrcid': 'Af8bnJSnOVW4_FB3lBpmNxQ',
+    '_ga': 'GA1.1.389524906.1680030334',
+    'phonesIdentV2': '5f7d7ac0-9d88-41dd-8825-ce85da1fc97a',
+    '_gcl_au': '1.1.16751140.1715429650',
+    '_ym_d': '1715429651',
+    'current_path': '605bfdc517d7e9e23947448a9bf1ce16ac36b884434a3fdb10db053793c50392a%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22current_path%22%3Bi%3A1%3Bs%3A115%3A%22%7B%22city%22%3A%2230b7c1f3-03fb-11dc-95ee-00151716f9f5%22%2C%22cityName%22%3A%22%5Cu041c%5Cu043e%5Cu0441%5Cu043a%5Cu0432%5Cu0430%22%2C%22method%22%3A%22manual%22%7D%22%3B%7D',
+    'cartUserCookieIdent_v3': 'fddb6f84e91e5927fab8eb047c234506c5c5ee322b2bd4c5d19ee48160711bcea%3A2%3A%7Bi%3A0%3Bs%3A22%3A%22cartUserCookieIdent_v3%22%3Bi%3A1%3Bs%3A36%3A%22c385842e-9202-3db6-a363-5949bc88af53%22%3B%7D',
+    'cf_avails': 'now',
+    '_ab_': '%7B%22aaa-test%22%3A%22GROUP_AAA_2%22%2C%22dl-aab-test%22%3A%224%22%2C%22catalog-stories-test%22%3A%22GROUP_3%22%2C%22catalog-filter-title-test%22%3A%22GROUP_1%22%2C%22search-avails-out-of-stock-test%22%3A%22GROUP_2%22%7D',
+    'PHPSESSID': '1b9210c1d37e845000c887848cdfe015',
+    'cookieImagesUploadId': '99bc75f8c8af58b2b2e0dfdad459314ab31866e6c2b76cd60c35a72d469a1deaa%3A2%3A%7Bi%3A0%3Bs%3A20%3A%22cookieImagesUploadId%22%3Bi%3A1%3Bs%3A36%3A%220c8ed7a2-2930-40a3-ac82-16fc7d647b36%22%3B%7D',
+    'lang': 'ru',
+    'city_path': 'moscow',
+    '_csrf': 'f19c0205e82b7ad150e4a9530d54d109ec9562847cacfe7e46f7037bb1725763a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22o8JcrwcYkez4zT2ewzm9tjsqtWQ83WQp%22%3B%7D',
+    'domain_sid': 'gtRaxmO6PILwoNI3J7dU2%3A1721821925926',
+    'qrator_jsr': '1722079240.778.JtaowqfyXzRiJQxg-0cb952bhe7urm9a9146hpav7diid0oau-00',
+    '_ga_FLS4JETDHW': 'GS1.1.1722079240.36.0.1722079240.60.0.101336658',
+    'qrator_jsid': '1722079240.778.JtaowqfyXzRiJQxg-65vjkiv5v8a3ti5ua93uoie437cp8kl2',
+}
