@@ -1,0 +1,30 @@
+{
+    "productId": "31556130299",
+    "productName": "Кроссовки мужские Athlex Ice",
+    "productPrice": 11999.0,
+    "productSalePrice": 11999.0,
+    "productSku": "72638930299",
+    "productPriceType": "NORMAL",
+    "productColor": "синий/голубой",
+    "productType": "Обувь",
+    "productCategory": "Спорт",
+    "productSubcategory": "Бег",
+    "productSport": [
+        "Бег"
+    ],
+    "productGroup": "Кроссовки",
+    "productSubgroup": "Кроссовки",
+    "productAge": "Взрослые",
+    "productGender": "Мужской",
+    "productBrand": "Athlex",
+    "marks": [
+        "NEW"
+    ],
+    "availability": {
+        "delivery": 0,
+        "deliveryExpress": 0,
+        "pickup": 0,
+        "pickupLater": 0,
+        "pickpoint": 0
+    }
+}
